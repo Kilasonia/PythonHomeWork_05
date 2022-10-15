@@ -9,6 +9,8 @@
 
 # man vs bot
 
+# для того чтобы победить в игре, игроку который будет делать первый ход нужно взять 20 конфет 
+
 # import random
 # from random import randint, choice
 
